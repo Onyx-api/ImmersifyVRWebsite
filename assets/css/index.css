@@ -1,0 +1,14 @@
+.round {
+    border: solid 1px;
+    border-color: #dddddd;
+    display: inline-block;
+    border-radius: 100%; 
+    padding: 0.65em;
+    margin: 0 0 2em 0;
+    cursor: default;
+    vertical-align: middle;
+}
+
+label {
+    margin-bottom: 0;
+}
